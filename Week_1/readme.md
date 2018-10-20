@@ -5,4 +5,4 @@
 * Learn basics of libraries such as numpy and pandas
 
 #### Some great resources to look at :-
-* https://github.com/SforAiDl/Deep-Learning-TIP.git
+* http://cs231n.github.io/python-numpy-tutorial/
